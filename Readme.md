@@ -4,5 +4,5 @@ Dosyalarımın içinde yer alan index.html'ye girilme zahmeti olmaması adına a
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://i.im.ge/2022/09/14/1X5suc.Ekran-Alintisi.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/82aw2h7.PNG)
       
